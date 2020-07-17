@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software developer having more than 8 years of experience in designing and developing scalable web services and platforms. I have been extensively working on Golang developments.
+
+I enjoy writing business logic and web-services as fast and as scalable as possible. I adhere to the standard code quality, documentation, and architecture. Making the code clean, effective and quick response is one of my major goals.
+
+- 🌱 I’m currently learning Blockchain.
+- 💬 If you want to discuss anything with me, feel free to send an email at hello@shivkumarsingh.in
 <!--
 **shivkumarsingh7/shivkumarsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
